@@ -52,7 +52,6 @@ $RECYCLE.BIN/
 *.yml
 *.zip
 
-includes/
 logs/
 phpmailer/
 swiftmailer/
